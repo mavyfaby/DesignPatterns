@@ -1,6 +1,6 @@
 package com.mavyfaby.DesignPatterns.structural.Adapter;
 
-public class Adapter {
+public class AdapterPattern {
 	public static void main(String[] args) {
 		MediaPlayer player = new MP3();
 
