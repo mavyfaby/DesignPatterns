@@ -1,6 +1,6 @@
 package com.mavyfaby.DesignPatterns.structural.Facade;
 
-public class Cat implements Animal {
+public class Cat implements IAnimal {
 	@Override
 	public void makeSound() {
 		System.out.println("Meow! Meow!");

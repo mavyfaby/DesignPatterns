@@ -2,7 +2,7 @@ package com.mavyfaby.DesignPatterns.structural.Adapter;
 
 public class AdapterPattern {
 	public static void main(String[] args) {
-		MediaPlayer player = new MP3();
+		IMediaPlayer player = new MP3();
 
 		player.play("Faded.mp3");
 

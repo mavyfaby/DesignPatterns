@@ -1,5 +1,5 @@
 package com.mavyfaby.DesignPatterns.structural.Adapter;
 
-public interface MediaPlayer {
+public interface IMediaPlayer {
 	void play(String filename);
 }

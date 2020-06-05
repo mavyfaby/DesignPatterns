@@ -1,7 +1,7 @@
 package com.mavyfaby.DesignPatterns.creational.Factory;
 
 public class AnimalFactory {
-	public Animal getAnimal(String animal) {
+	public IAnimal getAnimal(String animal) {
 		if (animal == null) {
 			return null;
 		}

@@ -1,9 +1,9 @@
 package com.mavyfaby.DesignPatterns.structural.Adapter;
 
-public class FormatAdapter implements MediaPlayer {
-	private MediaPackage media;
+public class FormatAdapter implements IMediaPlayer {
+	private IMediaPackage media;
 	
-	public FormatAdapter(MediaPackage m) {
+	public FormatAdapter(IMediaPackage m) {
 		this.media = m;
 	}
 	

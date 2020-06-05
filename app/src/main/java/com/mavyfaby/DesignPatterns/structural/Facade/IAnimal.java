@@ -1,5 +1,5 @@
 package com.mavyfaby.DesignPatterns.structural.Facade;
 
-public interface Animal {
+public interface IAnimal {
 	void makeSound();
 }

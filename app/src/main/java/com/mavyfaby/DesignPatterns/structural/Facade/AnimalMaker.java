@@ -1,9 +1,9 @@
 package com.mavyfaby.DesignPatterns.structural.Facade;
 
 public class AnimalMaker {
-	private Animal cat;
-	private Animal dog;
-	private Animal pig;
+	private IAnimal cat;
+	private IAnimal dog;
+	private IAnimal pig;
 	
 	public AnimalMaker() {
 		this.cat = new Cat();
