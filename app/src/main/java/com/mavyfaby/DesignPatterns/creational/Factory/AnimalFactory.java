@@ -1,4 +1,4 @@
-package com.mavyfaby.creational.Factory;
+package com.mavyfaby.DesignPatterns.creational.Factory;
 
 public class AnimalFactory {
 	public Animal getAnimal(String animal) {

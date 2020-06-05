@@ -1,4 +1,4 @@
-package com.mavyfaby.structural.Facade;
+package com.mavyfaby.DesignPatterns.structural.Facade;
 
 public class Dog implements Animal {
 	@Override

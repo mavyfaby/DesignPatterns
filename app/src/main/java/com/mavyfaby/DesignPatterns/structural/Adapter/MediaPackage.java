@@ -1,4 +1,4 @@
-package com.mavyfaby.structural.Adapter;
+package com.mavyfaby.DesignPatterns.structural.Adapter;
 
 public interface MediaPackage {
 	void playFile(String filename);

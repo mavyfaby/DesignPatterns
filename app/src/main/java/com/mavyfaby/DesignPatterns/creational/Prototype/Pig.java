@@ -1,4 +1,4 @@
-package com.mavyfaby.creational.Prototype;
+package com.mavyfaby.DesignPatterns.creational.Prototype;
 
 public class Pig {
 	private String name = null;

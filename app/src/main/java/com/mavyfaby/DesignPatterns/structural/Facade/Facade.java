@@ -1,4 +1,4 @@
-package com.mavyfaby.structural.Facade;
+package com.mavyfaby.DesignPatterns.structural.Facade;
 
 public class Facade {
 	public static void main(String[] args) {

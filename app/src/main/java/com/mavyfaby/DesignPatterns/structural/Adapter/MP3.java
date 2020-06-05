@@ -1,4 +1,4 @@
-package com.mavyfaby.structural.Adapter;
+package com.mavyfaby.DesignPatterns.structural.Adapter;
 
 public class MP3 implements MediaPlayer {
 	@Override
